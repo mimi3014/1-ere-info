@@ -1,3 +1,5 @@
+Samuel 
+
 $maPremiereVariable = 'Hello World';<br>
 <!--
     MON COMMENTAIRE HTML
@@ -24,6 +26,7 @@ print $nbre;
 
 // Différents types
 $entier = 10; // integer
+
 echo "<pre>";
     var_dump($entier);
 echo "</pre>";
@@ -42,8 +45,8 @@ echo "<pre>";
 echo "</pre>";
 
 
-$bolean = false;
+$boolean = false;
 
 echo "<pre>";
-    var_dump($bolean);
+    var_dump($boolean);
 echo "</pre>";
